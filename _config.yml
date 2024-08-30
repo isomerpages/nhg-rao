@@ -1,6 +1,6 @@
 title: NHG Research Administration Office (RAO)
 url: https://admin.gri.nhg.com.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logos/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d158rp182nnq99.amplifyapp.com
 prod: https://master.d15mty9mumpsld.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logos/favicon-isomer.ico
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
