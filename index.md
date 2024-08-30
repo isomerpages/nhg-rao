@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NHG Research Administration Office (RAO)
+description: A National Healthcare Group (NHG) site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
